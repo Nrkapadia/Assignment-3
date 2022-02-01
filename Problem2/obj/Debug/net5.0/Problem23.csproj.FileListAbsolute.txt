@@ -1,0 +1,16 @@
+D:\DotNet Technologies\Assignment_3\Problem23\bin\Debug\net5.0\Problem23.exe
+D:\DotNet Technologies\Assignment_3\Problem23\bin\Debug\net5.0\Problem23.deps.json
+D:\DotNet Technologies\Assignment_3\Problem23\bin\Debug\net5.0\Problem23.runtimeconfig.json
+D:\DotNet Technologies\Assignment_3\Problem23\bin\Debug\net5.0\Problem23.runtimeconfig.dev.json
+D:\DotNet Technologies\Assignment_3\Problem23\bin\Debug\net5.0\Problem23.dll
+D:\DotNet Technologies\Assignment_3\Problem23\bin\Debug\net5.0\ref\Problem23.dll
+D:\DotNet Technologies\Assignment_3\Problem23\bin\Debug\net5.0\Problem23.pdb
+D:\DotNet Technologies\Assignment_3\Problem23\obj\Debug\net5.0\Problem23.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Assignment_3\Problem23\obj\Debug\net5.0\Problem23.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Assignment_3\Problem23\obj\Debug\net5.0\Problem23.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Assignment_3\Problem23\obj\Debug\net5.0\Problem23.AssemblyInfo.cs
+D:\DotNet Technologies\Assignment_3\Problem23\obj\Debug\net5.0\Problem23.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Assignment_3\Problem23\obj\Debug\net5.0\Problem23.dll
+D:\DotNet Technologies\Assignment_3\Problem23\obj\Debug\net5.0\ref\Problem23.dll
+D:\DotNet Technologies\Assignment_3\Problem23\obj\Debug\net5.0\Problem23.pdb
+D:\DotNet Technologies\Assignment_3\Problem23\obj\Debug\net5.0\Problem23.genruntimeconfig.cache

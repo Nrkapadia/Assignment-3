@@ -1,0 +1,16 @@
+D:\DotNet Technologies\Assignment_3\Problem3\bin\Debug\net5.0\Problem3.exe
+D:\DotNet Technologies\Assignment_3\Problem3\bin\Debug\net5.0\Problem3.deps.json
+D:\DotNet Technologies\Assignment_3\Problem3\bin\Debug\net5.0\Problem3.runtimeconfig.json
+D:\DotNet Technologies\Assignment_3\Problem3\bin\Debug\net5.0\Problem3.runtimeconfig.dev.json
+D:\DotNet Technologies\Assignment_3\Problem3\bin\Debug\net5.0\Problem3.dll
+D:\DotNet Technologies\Assignment_3\Problem3\bin\Debug\net5.0\ref\Problem3.dll
+D:\DotNet Technologies\Assignment_3\Problem3\bin\Debug\net5.0\Problem3.pdb
+D:\DotNet Technologies\Assignment_3\Problem3\obj\Debug\net5.0\Problem3.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Assignment_3\Problem3\obj\Debug\net5.0\Problem3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Assignment_3\Problem3\obj\Debug\net5.0\Problem3.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Assignment_3\Problem3\obj\Debug\net5.0\Problem3.AssemblyInfo.cs
+D:\DotNet Technologies\Assignment_3\Problem3\obj\Debug\net5.0\Problem3.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Assignment_3\Problem3\obj\Debug\net5.0\Problem3.dll
+D:\DotNet Technologies\Assignment_3\Problem3\obj\Debug\net5.0\ref\Problem3.dll
+D:\DotNet Technologies\Assignment_3\Problem3\obj\Debug\net5.0\Problem3.pdb
+D:\DotNet Technologies\Assignment_3\Problem3\obj\Debug\net5.0\Problem3.genruntimeconfig.cache
